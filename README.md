@@ -1,4 +1,4 @@
-# IronVision — Modular AR Vision Pipeline
+# Argus — Modular AR Vision Pipeline
 
 Phone camera → WiFi stream → Laptop AI pipeline → Iron Man HUD
 
